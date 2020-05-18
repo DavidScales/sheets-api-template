@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "y",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "y",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^6.0.0",
+    "googleapis": "^51.0.0"
+  }
+}
